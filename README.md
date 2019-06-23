@@ -1,2 +1,2 @@
 # cmd
-open
+df -lh
